@@ -1,4 +1,13 @@
 # CUSTOMER-SEGMENTATION
+This Dataset contains the information about the customers like Sex, Marital status, Age, Education, Income Occupation etc. through which we can easily fit our model for better prediction.
+
+we are going to check the following:
+1. How the customers income influence what they buy.
+2. The category of customers. 
+3. Correlation between custmers age and income.
+4. Predictive analysis.
+
+DATA INFORMATION:
 1. ID numerical Integer Shows a unique identificator of a customer.
 
 2. Sex categorical {0,1} Biological sex (gender) of a customer. 0 = male / 1 = female
@@ -15,7 +24,4 @@
 
 8. Settlement size categorical {0,1,2} The size of the city that the customer lives in. 0=small / 1=mid-size / 2=big
 
-we are going to check the following:
-1. How the customers income influence what they buy.
-2. The category of customers. 
-3. Correlation between custmers age and income.
+
