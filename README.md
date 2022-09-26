@@ -7,7 +7,7 @@ we are going to check the following:
 3. Correlation between custmers age and income.
 4. Predictive analysis.
 
-DATA INFORMATION:
+DATASET INFORMATION:
 1. ID numerical Integer Shows a unique identificator of a customer.
 
 2. Sex categorical {0,1} Biological sex (gender) of a customer. 0 = male / 1 = female
